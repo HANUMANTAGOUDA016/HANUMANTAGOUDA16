@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Hanamantagouda!<br><br>🎓 Student & Aspiring Software Developer<br>💻 Freelance Developer | Web Development | AI/ML<br>🚀 Building projects that solve real-world problems<br><br>🔭 Currently working on Web Development & AI/ML projects<br>💼 Available for Freelance Projects & Collaborations<br>🤝 Open to Open Source and Innovative Projects<br>🌱 Currently learning Python, React, Node.js, AI & Machine Learning<br>💬 Ask me about Programming, Web Development & AI/ML<br>⚡ Fun fact: I enjoy turning ideas into working projects!<br><br>✨ Always learning. Always building. Always improving.
+👋 Hi, I'm Hanamantagouda!<br><br>🎓  Aspiring Software Developer<br>💻 Freelance Developer | Web Development | AI/ML<br>🚀 Building projects that solve real-world problems<br><br>🔭 Currently working on Web Development & AI/ML projects<br>💼 Available for Freelance Projects & Collaborations<br>🤝 Open to Open Source and Innovative Projects<br>🌱 Currently learning Python, React, Node.js, AI & Machine Learning<br>💬 Ask me about Programming, Web Development & AI/ML<br>⚡ Fun fact: I enjoy turning ideas into working projects!<br><br>✨ Always learning. Always building. Always improving.
 
 
 ## 🌐 Socials:
